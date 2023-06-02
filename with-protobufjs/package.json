@@ -3,5 +3,14 @@
     "uuid": "dcf83e9f-d994-4274-aa3d-29250ec33da1",
     "creator": {
         "version": "3.7.3"
+    },
+    "dependencies": {
+        "long": "5.2.3",
+        "protobufjs": "7.2.3",
+        "protobufjs-cli": "1.1.1"
+    },
+    "scripts": {
+        "protocli": "node ./tools/build_proto.js",
+        "buildproto": "npm run protocli -- ./protos ./assets/script/proto ./assets/script/proto proto"
     }
 }
