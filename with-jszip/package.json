@@ -1,0 +1,10 @@
+{
+    "name": "with-jszip",
+    "uuid": "a74e004d-b63a-4540-8650-0c05db8cb4fe",
+    "creator": {
+        "version": "3.7.3"
+    },
+    "dependencies": {
+        "jszip": "3.10.1"
+    }
+}
