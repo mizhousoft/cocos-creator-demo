@@ -1,0 +1,4 @@
+15_0`15`0`<color=#e78a04>武器</color>
+15_1`15`1`<color=#e78a04>衣服</color>
+15_2`15`2`<color=#e78a04>头盔</color>
+15_3`15`3`<color=#e78a04>项链</color>

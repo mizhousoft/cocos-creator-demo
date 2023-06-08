@@ -1,0 +1,5 @@
+22_1`22`1`addPassiveSkillBF`PGF_SkillTao_1```P3301001
+22_2`22`2`addPassiveSkillBF`PGF_SkillTao_2```P3301002
+22_3`22`3`addPassiveSkillBF`PGF_SkillTao_3```P3301003
+22_4`22`4`addPassiveSkillBF`PGF_SkillTao_4```P3301004
+22_5`22`5`addPassiveSkillBF`PGF_SkillTao_5```P3301005

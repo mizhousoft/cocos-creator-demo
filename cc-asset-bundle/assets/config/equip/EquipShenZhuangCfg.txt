@@ -1,0 +1,5 @@
+0_0`15`0`0`262200`1`publicAttackValue
+0_1`15`0`1`262200`1`publicAttackValue
+0_2`15`0`2`262200`1`publicAttackValue
+0_3`15`0`3`262200`1`publicAttackValue
+0_4`15`0`4`262200`1`publicAttackValue
