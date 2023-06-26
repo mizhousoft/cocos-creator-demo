@@ -8,6 +8,10 @@ local/
 profiles/
 build/android/assets/
 build/android/data/
+build/android/proj/.gradle
+build/android/proj/build
+build/android/proj/libservice/build
+native/engine/android/app/release/
 #//////////////////////////
 # NPM
 #//////////////////////////
