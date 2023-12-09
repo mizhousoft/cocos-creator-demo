@@ -1,13 +1,13 @@
 {
     "name": "with-protobufjs",
-    "uuid": "dcf83e9f-d994-4274-aa3d-29250ec33da1",
+    "uuid": "f5119dd7-acf2-4dcc-ad8a-c1cf575cbe3c",
     "creator": {
-        "version": "3.7.3"
+        "version": "3.8.1"
     },
     "dependencies": {
         "long": "5.2.3",
-        "protobufjs": "7.2.3",
-        "protobufjs-cli": "1.1.1"
+        "protobufjs": "7.2.5",
+        "protobufjs-cli": "1.1.2"
     },
     "scripts": {
         "protocli": "node ./tools/build_proto.js",

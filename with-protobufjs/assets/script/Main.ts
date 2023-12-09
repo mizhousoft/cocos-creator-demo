@@ -1,6 +1,6 @@
 import { _decorator, Component, Node } from 'cc';
-import { HelloWorld } from './proto/proto.js';
 const { ccclass, property } = _decorator;
+import { HelloWorld } from './proto/proto.js';
 
 @ccclass('Main')
 export class Main extends Component {
