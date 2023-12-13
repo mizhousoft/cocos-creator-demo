@@ -19,5 +19,3 @@ export class Loading extends Component {
 
     }
 }
-
-
