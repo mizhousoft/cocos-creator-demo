@@ -16,5 +16,11 @@
       "1": 6,
       "2": 6
     }
+  },
+  "general": {
+    "designResolution": {
+      "width": 960,
+      "height": 640
+    }
   }
 }
