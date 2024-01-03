@@ -23,6 +23,14 @@ export class List extends Component {
         itemComponenct.sceneName = "tag";
         itemComponenct.index = 2;
         listItem.parent = this.node;
+
+        listItem = instantiate(this.listItemPrefab);
+        titleLabel = listItem.getComponentInChildren(Label);
+        titleLabel.string = "Mask";
+        itemComponenct = listItem.getComponent(ListItem);
+        itemComponenct.sceneName = "mask";
+        itemComponenct.index = 3;
+        listItem.parent = this.node;
     }
 
     update(deltaTime: number) {

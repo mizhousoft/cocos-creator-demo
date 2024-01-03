@@ -9,12 +9,27 @@
       {
         "index": 2,
         "name": "Line"
+      },
+      {
+        "index": 3,
+        "name": "testa"
+      },
+      {
+        "index": 4,
+        "name": "testb"
+      },
+      {
+        "index": 5,
+        "name": "Collider"
       }
     ],
     "collisionMatrix": {
       "0": 1,
       "1": 6,
-      "2": 6
+      "2": 6,
+      "3": 16,
+      "4": 8,
+      "5": 32
     }
   },
   "general": {
